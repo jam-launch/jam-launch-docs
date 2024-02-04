@@ -1,0 +1,9 @@
+docs/build
+docs/gdscript
+docs/source/classes
+
+# Godot 4+ specific ignores
+.godot/
+
+godot
+Godot_*

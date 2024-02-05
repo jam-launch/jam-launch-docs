@@ -2,6 +2,10 @@
 Class Documentation
 ======================================
 
+This class documentation is generated directly from the source code in the Jam
+Launch addon. It should also be available in the editor documentation when the
+addon is present.
+
 .. toctree::
    :maxdepth: 1
    :caption: Jam Launch Classes

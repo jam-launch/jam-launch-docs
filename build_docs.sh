@@ -16,6 +16,8 @@ mkdir -p ./docs/gdscript
 
 python ./tools/make_rst.py -o ./docs/source/classes ./docs/gdscript/doc/classes ./docs/gdscript/doc/platform ./docs/gdscript/modules ./docs/gdscript/jam_launch
 
+for classfile in ./docs/source/classes/*.rst; do sed -i '/:github_url: hide/d' $classfile; done
+
 sed -i '/class_jam/d' ./docs/source/classes/index.rst
 sed -i '/class_"addons/d' ./docs/source/classes/index.rst
 

@@ -11,6 +11,7 @@ deployed as quickly as possible. Specifically, it provides:
     * In-editor game publishing
     * Game distribution and web player hosting
     * Game session provisioning
+    * Cloud-based game data persistence and querying
 * **Pre-built multiplayer components** - the open source example projects and
   addon provide reusable Godot components that can be used to jump-start any
   Godot multiplayer game project. One of the goals for 2024 is to expand these

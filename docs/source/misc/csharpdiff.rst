@@ -1,4 +1,3 @@
-
 .. _doc_c_sharp_differences:
 
 C# Differences

@@ -65,7 +65,7 @@ Play the deployed example project
 ************************************
 
 Once you have a Jam Launch account, you can
-`play the example game <https://app.jamlaunch.com/g/FP8XMOFFKp/x16>`_. Try it
+`play the example game <https://app.jamlaunch.com/g/FP8XMOFFKp/x17>`_. Try it
 out with friends, and see if it meets your expectations. Make sure to create the
 game in a nearby region, otherwise the latency may be very noticeable. If
 there aren't any nearby regions, we will add the nearest feasible region if you
